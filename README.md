@@ -1,3 +1,3 @@
 # Spam_Detection
-スパムメールの検知をPythonで実装　　　　
+スパムメールの検知をPythonで実装  
 ベルヌーイモデルを使用した
